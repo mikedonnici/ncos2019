@@ -24,7 +24,7 @@
 
           <article class="media">
             <div class="media-left">9:15 - 10:45</div>
-            <div class="media-content">Keynote - Simone Breakspear</div>
+            <div class="media-content">Keynote - Simon Breakspear</div>
           </article>
 
           <article class="media">
@@ -34,7 +34,7 @@
 
           <article class="media">
             <div class="media-left">11:15 - 12:15</div>
-            <div class="media-content">Session 1</div>
+            <div class="media-content">Session One</div>
           </article>
 
           <article class="media">
@@ -44,14 +44,14 @@
 
           <article class="media">
             <div class="media-left">1:00 - 2:00</div>
-            <div class="media-content">Session 2</div>
+            <div class="media-content">Session Two</div>
           </article>
 
           <article class="media">
             <div class="media-left">2:00 - 3:30</div>
             <div
               class="media-content"
-            >Session 3: Secondary faculty time, Primary meet in school groups, Simon leadership</div>
+            >Session Three: Secondary faculty time, Primary meet in school groups, Simon leadership</div>
           </article>
 
           <p>&nbsp;</p>
@@ -111,7 +111,7 @@
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
                 </li>
                 <li>
-                  <a href="#keynote">Keynote: Enhancing adaptive expertise through Learning Sprints</a>
+                  <a href="#keynote">Enhancing adaptive expertise through Learning Sprints</a>
                 </li>
                 <li>
                   <a
@@ -165,15 +165,13 @@
                   <a href="#autism">Understanding the Basics of Autism</a>
                 </li>
                 <li>
-                  <a href="#literacry">7-10 Literacy</a>
+                  <a href="#literacy">Building Literacy from 7-12</a>
                 </li>
                 <li>
                   <a href="#library">Teaching Library Skills</a>
                 </li>
                 <li>
-                  <a
-                    href="#sentral"
-                  >Sentral or Approaching Maths with Curiosity, Courage, Confidence and Intuition</a>
+                  <a href="#sentral">Sentral Markbook</a>
                 </li>
                 <li>
                   <a href="#sport">Practical PDHPE and Sport Activities</a>
@@ -185,7 +183,7 @@
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
                 </li>
                 <li>
-                  <a href="#keynote">Keynote: Enhancing adaptive expertise through Learning Sprints</a>
+                  <a href="#keynote">Enhancing adaptive expertise through Learning Sprints</a>
                 </li>
                 <li>
                   <a
@@ -216,7 +214,7 @@
         <blockquote class="notification">
           <h3 id="dyslexia">Dyslexia</h3>Presenter: Qualified ADA assessor
           <br>Audience: all staff
-          <br>Session: Both session 1 and session 2 (this is a two-hour session)
+          <br>Session: Spanning Session One and Session Two
         </blockquote>
 
         <p>
@@ -277,7 +275,7 @@
           <h3 id="trauma">The Trauma Informed Classroom</h3>Julie Mehic, Head Teacher Wellbeing
           <br>Kate Burrett, Head teacher STC) Bomaderry High School
           <br>Intended audience: all staff
-          <br>Session: Both session 1 and session 2 (this is a two-hour session)
+          <br>Session: Spanning Session One and Session Two
         </blockquote>
 
         <p>
@@ -296,7 +294,7 @@
         <blockquote class="notification">
           <h3 id="saws">Speaking and Working Scientifically</h3>Christine Gates, Head Teacher Science Bomaderry High School
           <br>Intended audience: K-6 and 7-12 support
-          <br>Session One: 11:15am - 12:15pm
+          <br>Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -331,7 +329,7 @@
         <blockquote class="notification">
           <h3 id="journey">A Journey from Detention to Restoration</h3>Samantha Sheridan, Learning &amp; Support Teacher, Classroom Teacher K/1S, Shoalhaven Heads Public School
           <br>Intended audience: K-6 teachers / SLSO
-          <br>Session One: 11:15am - 12:15pm
+          <br>Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -345,7 +343,7 @@
         <blockquote class="notification">
           <h3 id="abed">Aboriginal Education - Personalised Learning Pathways</h3>Lorrae King, Reading Support/ LST Teacher Bomaderry Public School
           <br>Intended audience: K-12 all staff
-          <br>Session One: 11:15am - 12:15pm
+          <br>Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -367,7 +365,8 @@
         <blockquote class="notification">
           <h3 id="movie">Movie making with Premiere Pro</h3>Harry Love, Classroom teacher Bomaderry High School
           <br>Intended audience: all Staff
-          <br>Session One: 11:15am - 12:15pm
+          <br>Session One: 11:15 - 12:15
+          <br>Requirements: Please bring own headphones
         </blockquote>
 
         <p>
@@ -383,11 +382,9 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="transition">Transition in the middle years</h3>Danielle Bobyk and Kristy Brown
-          Assistant Principal
-          Bomaderry Public School
-          Intended audience: Stage 3 teachers and supervisors and High school transition coordinators,Year Advisors and Stage 4 teachers
-          Session One: 11:15am - 12:15pm
+          <h3 id="transition">Transition in the Middle Years</h3>Danielle Bobyk and Kristy Brown, Assistant Principals Bomaderry Public School
+          <br>Intended audience: Stage 3 teachers and supervisors and High school transition coordinators, Year Advisors and Stage 4 teachers
+          <br>Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -423,7 +420,7 @@
         <blockquote class="notification">
           <h3 id="evidence">Evidence Based Teacher Discussions</h3>Jo De Fazio and Benji Young, Deputy Principal Bomaderry Public School
           <br>Intended audience: K-6 all teachers
-          <br>Session One: 11:15am - 12:15pm
+          <br>Session One: 11:15 - 12:15
           <br>Requirements: Syllabus, progressions and if possible, class analysis sheet (printed off from PLAN2)
         </blockquote>
 
@@ -447,7 +444,7 @@
         <blockquote class="notification">
           <h3 id="data">Data Analysis to Inform Practice</h3>Cathy Russell, Deputy Principal Bomaderry High School
           <br>Intended audience: 7-12 teachers
-          <br>Session One: 11:15am - 12:15pm
+          <br>Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -458,10 +455,10 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="application">The Golden Ticket! - Application Writing</h3>Ian Morris, Principal Bomaderry High School
+          <h3 id="application">The Golden Ticket!</h3>Ian Morris, Principal Bomaderry High School
           <br>Dionne Hanbidge, Principal Bomaderry Public School
           <br>Intended audience: all teaching staff
-          <br>Session One: 11:15am - 12:15pm
+          <br>Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -478,7 +475,7 @@
           <br>Karen Wilson, Assistant Principal
           <br>Patrick O'Keeffe, IT Coordinator
           <br>Intended audience: all teachers and SLSOs
-          Session One: 11:15am - 12:15pm
+          <br>Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -493,14 +490,15 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="seesaw">A Beginners Guide to Seesaw</h3>Belinda Walker and Tammy Burn, Shoalhaven Heads Public School
+          <h3 id="seesaw">A Beginners Guide to Seesaw</h3>Belinda Walker, Assistant Principal Shoalhaven Heads Public School
+          <br>Tammy Burn, Classroom Teacher Shoalhaven Heads Public School
           <br>Intended audience: all teachers
           <br>Session Two: 1:00 - 2:00
           <br>Requirements: own device or laptop, iPad preferred or laptop with touchscreen capabilities
         </blockquote>
 
         <p>
-          Seesaw, the online learning journal from classroom teachers that are currently using it
+          Explore Seesaw, the online learning journal from classroom teachers that are currently using it
           successfully with their primary classes.
         </p>
 
@@ -655,17 +653,19 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="literacy">7-10 Literacy</h3>Sarah Barrott, Head Teacher English Bomaderry High School
-          <br>Intended audience: 7-10 teachers
+          <h3 id="literacy">Building Literacy from 7-12</h3>Sarah Barrott, Head Teacher English Bomaderry High School
+          <br>Intended audience: 7-12 teachers
           <br>Session Two: 1:00 - 2:00
+          <br>Requirements: White board marker
         </blockquote>
 
         <p>
-          How to use data to inform literacy practices across multiple platforms eg; school, cohort, class and
-          individual instruction. Teachers will be provided with models and approaches to building and mapping
-          student progress for literacy from 7 - 10. Teachers will have opportunities to engage in hands on
-          activities catering to building students comprehension skills that can be readily and easily applied
-          to teaching and learning across all KLA's.
+          This session will unpack the ways data can be collated, analysed and used to inform literacy practices
+          across multiple platforms eg; school, cohort, class and individual instruction. Teachers will be
+          provided with models and approaches to building and mapping student progress for literacy from 7-12.
+          Teachers will have opportunities to engage in hands on literacy activities that can be readily and easily
+          applied to teaching and learning across all KLA's. Teachers will be provided with resources and activities
+          to use in the classroom!
         </p>
 
         <hr>
@@ -684,25 +684,22 @@
         <hr>
 
         <blockquote class="notification">
-          <h3
-            id="sentral"
-          >Sentral or Approaching Maths with Curiosity, Courage, Confidence and Intuition</h3>Dewi Brewitt, Head Teacher Mathematics Bomaderry High School
-          <br>Intended audience:
+          <h3 id="sentral">Sentral Markbook</h3>Dewi Brewitt, Head Teacher Mathematics Bomaderry High School
+          <br>Intended audience: all staff who use Sentral, executive setting up faculty or stage markbooks
           <br>Session Two: 1:00 - 2:00
+          <br>Requirements: Please bring own laptop
         </blockquote>
 
         <p>
-          How do we develop an inquiry relationship with mathematics? How do we encourage our students to talk to
-          each other about mathematics? How do we challenge our students to work at the highest and most appropriate
-          level for them? In this session, teachers will engage in a range of learning activities to promote a
-          culture of curiosity and engagement in mathematics.
+          This session will go through an optimal process to use when setting up your Sentral markbook, either
+          as a faculty or learning stage.
         </p>
 
         <hr>
 
         <blockquote class="notification">
-          <h3 id="sport">Practical PDHPE and Sport Activities</h3>Jenni Raison, Head Teacher of PDHPE and Head Teacher of Learning Bomaderry High School
-          <br>Intended audience: all staff -K-12- anyone who delivers sport or PDHPE
+          <h3 id="sport">Practical PDHPE and Sport Activities</h3>Jenni Raison, Head Teacher of Teaching and Learning Bomaderry High School
+          <br>Intended audience: all staff, K-12, anyone who delivers Sport or PDHPE
           <br>Session Two: 1:00 - 2:00
           <br>Requirements of attendees: Clothes to allow participation in physical activity.
         </blockquote>
@@ -716,7 +713,8 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="headspace">Headspace</h3>Joel Lahene
+          <h3 id="headspace">Headspace</h3>Joel Lahene, Youth Care Coordinator
+          <br>Ashlea Beaver, Psychologist
           <br>Intended audience: all staff
           <br>Session One: 11:15 - 12:15
           <br>Session Two: 1:00 - 2:00
@@ -754,7 +752,7 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="keynote">Keynote: Enhancing adaptive expertise through Learning Sprints</h3>Simon Breakspear
+          <h3 id="keynote">Enhancing adaptive expertise through Learning Sprints</h3>Simon Breakspear
           <br>Intended audience: all staff
           <br>Session One: 11:15 - 12:15
           <br>Session Two: 1:00 - 2:00
@@ -777,7 +775,8 @@
         </blockquote>
 
         <p>
-          In order to meet the aim “To create flexible learners to be prepared for 21st century life” that
+          In order to meet the aim,
+          <i>"To create flexible learners to be prepared for 21st century life"</i> that
           is present in many school plans, teachers need their own tool kit to help students develop the skills
           to work independently and recognise the links between subjects. This workshop aims to identify some
           key skills students are required to learn in each KLA and develop a set of resources that can be
@@ -819,15 +818,31 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="mindful">Mindfulness in Education</h3>Robyn Zelvis, Senior Psychologist Education
+          <h3 id="mindful">Mindfulness in Education</h3>Robyn Zelvis,
+          School Counsellor Illawarra Sports High School,
+          Rel/Senior Psychologist Education Dapto High School
           <br>Intended audience: all staff
           <br>Session One: 11:15 - 12:15
           <br>Session Two: 1:00 - 2:00
         </blockquote>
 
         <p>
-          Robyn Zelvis was awarded the Anika Foundation Youth Depression Awareness scholarship, which she used to
-          study mindfulness programs in schools in New Zealand, the Netherlands, UK and Canada.
+          Robyn has worked as a school counsellor since 2009, in south western Sydney prior to transferring to the Illawarra
+          in 2014. She has extensive experience, having worked in a range of high schools and primary schools across a diversity
+          of demographics. Robyn is also a registered psychologist.
+        </p>
+        <p>
+          In 2016, Robyn was awarded the NSW Premier’s Teacher Scholarship (The Anika Foundation Scholarship) and embarked on a
+          five-week study tour in 2017. The focus of her tour was mindfulness in education. Robyn travelled to the USA, Canada,
+          United Kingdom as well as Australia, attending a conference, meeting with experts in the field and experiencing the
+          application of mindfulness in schools. Robyn uses mindfulness in her counselling and encourages everybody to practice
+          mindfulness in their daily lives.
+        </p>
+        <p>
+          Robyn will provide an overview of what mindfulness is, how it is helpful and tips on how to implement mindfulness
+          into classrooms. She will also ask participants to engage in some mindfulness activities as experiential learning both
+          to understand how it can help students in the classroom and how it can help the educators as a self-care strategy for
+          themselves.
         </p>
 
         <p>
