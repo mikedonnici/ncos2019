@@ -76,7 +76,10 @@
                   <a href="#saws">Speaking and Working Scientifically</a>
                 </li>
                 <li>
-                  <a href="#numeracy">Engaging students in numeracy</a>
+                  <a href="#highqual">High-Quality Learning Environments</a>
+                </li>
+                <li>
+                  <a href="#numeracy">Engaging Students in Numeracy</a>
                 </li>
                 <li>
                   <a href="#journey">A Journey from Detention to Restoration</a>
@@ -85,10 +88,10 @@
                   <a href="#abed">Aboriginal Education - Personalised Learning Pathways</a>
                 </li>
                 <li>
-                  <a href="#movie">Movie making with Premiere Pro</a>
+                  <a href="#movie">Movie Making with Premiere Pro</a>
                 </li>
                 <li>
-                  <a href="#transition">Transition in the middle years</a>
+                  <a href="#transition">Transition in the Middle Years</a>
                 </li>
                 <li>
                   <a href="#evidence">Evidence Based Teacher Discussions</a>
@@ -97,7 +100,7 @@
                   <a href="#data">Data Analysis to Inform Practice</a>
                 </li>
                 <li>
-                  <a href="#application">The Golden Ticket! - Application Writing</a>
+                  <a href="#application">The Golden Ticket!</a>
                 </li>
                 <li>
                   <a
@@ -111,7 +114,7 @@
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
                 </li>
                 <li>
-                  <a href="#keynote">Enhancing adaptive expertise through Learning Sprints</a>
+                  <a href="#keynote">Enhancing Adaptive Expertise through Learning Sprints</a>
                 </li>
                 <li>
                   <a
@@ -153,7 +156,7 @@
                   <a href="#regulation">Emotional Regulation and Visible Learning</a>
                 </li>
                 <li>
-                  <a href="#music">Music Carl Orff</a>
+                  <a href="#music">Music - Using the Orff Schulwerk Method</a>
                 </li>
                 <li>
                   <a href="#deadly">Incorporating 'Deadly' Technology into Teaching and Learning</a>
@@ -183,7 +186,7 @@
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
                 </li>
                 <li>
-                  <a href="#keynote">Enhancing adaptive expertise through Learning Sprints</a>
+                  <a href="#keynote">Enhancing Adaptive Expertise through Learning Sprints</a>
                 </li>
                 <li>
                   <a
@@ -310,7 +313,36 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="numeracy">Engaging students in numeracy</h3>Carly Dunstan, Classroom Teacher Illaroo Road Public School
+          <h3 id="highqual">High-Quality Learning Environments</h3>Anita Walsh EIU Preschool Teacher, Heidi Bridge DP Support, Kim Harley ‘The Nest’ SACC Coordinator, Anne Maree Stewart SLSO
+          <br>Intended audience: K-12
+          <br>Session One: 11:15 - 12:15
+        </blockquote>
+
+        <p>
+          High quality learning environments incorporate both the school culture and school climate. Research has
+          consistently demonstrated that high quality learning environments, with a positive school culture and climate
+          are associated with academic achievement, effective risk prevention efforts and positive student development.
+        </p>
+
+        <p>
+          <i>
+            "An active learning environment is one in which children are encouraged to explore and interact with the environment
+            to make meaning and knowledge through their experiences, social interactions and negotiations with others"
+          </i> (Early Years
+          Learning Framework p. 45.)
+        </p>
+
+        <p>
+          Creating and maintaining high-quality learning environments need not cost the earth and can be easily adapted to
+          all ages and year levels. Bomaderry Primary School has created high quality learning environments for Playgroup,
+          Preschool and Infants and Primary and all Support classrooms. Outdoor learning areas and environments contribute
+          to provide positive experiences and outcomes for all students.
+        </p>
+
+        <hr>
+
+        <blockquote class="notification">
+          <h3 id="numeracy">Engaging Students in Numeracy</h3>Carly Dunstan, Classroom Teacher Illaroo Road Public School
           <br>Intended audience: K-6 teachers
           <br>Session One: 11:15 - 12:15
         </blockquote>
@@ -419,9 +451,9 @@
 
         <blockquote class="notification">
           <h3 id="evidence">Evidence Based Teacher Discussions</h3>Jo De Fazio and Benji Young, Deputy Principal Bomaderry Public School
-          <br>Intended audience: K-6 all teachers
+          <br>Intended audience: K-6 / all teachers
           <br>Session One: 11:15 - 12:15
-          <br>Requirements: Syllabus, progressions and if possible, class analysis sheet (printed off from PLAN2)
+          <br>Requirements: Syllabus, progressions and if possible, class analysis sheet (printed off from PLAN2) and/or digital device with connectivity
         </blockquote>
 
         <p>
@@ -561,7 +593,7 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="music">Music Carl Orff</h3>John Dunstan, Classroom Teacher Illaroo Road Public School
+          <h3 id="music">Music - Using the Orff Schulwerk Method</h3>John Dunstan, Classroom Teacher Illaroo Road Public School
           <br>Intended audience: K-12 teachers
           <br>Session Two: 1:00 - 2:00
         </blockquote>
@@ -752,7 +784,7 @@
         <hr>
 
         <blockquote class="notification">
-          <h3 id="keynote">Enhancing adaptive expertise through Learning Sprints</h3>Simon Breakspear
+          <h3 id="keynote">Enhancing Adaptive Expertise through Learning Sprints</h3>Simon Breakspear
           <br>Intended audience: all staff
           <br>Session One: 11:15 - 12:15
           <br>Session Two: 1:00 - 2:00
@@ -841,22 +873,8 @@
         <p>
           Robyn will provide an overview of what mindfulness is, how it is helpful and tips on how to implement mindfulness
           into classrooms. She will also ask participants to engage in some mindfulness activities as experiential learning both
-          to understand how it can help students in the classroom and how it can help the educators as a self-care strategy for
+          to understand how it can help students in the classroom and how it can help educators as a self-care strategy for
           themselves.
-        </p>
-
-        <p>
-          “I wanted to look into mindfulness as a way to develop resilience and social and emotional learning in
-          young people because that helps to treat depression, but also to prevent depression,” Ms Zelvis said.
-          “Mindfulness is about teaching young people how to be open and aware of the present moment as it unfolds,
-          and be in tune with your thoughts and feelings and sit with them rather than fighting against them or
-          trying to ignore them, because inevitably they always come back.”
-        </p>
-
-        <p>
-          Robyn Zelvis is a Registered Psychologist working with children, adolescents and adults. She is experienced
-          with a wide range of mental health issues across the life span and uses evidence-based therapies with
-          particular emphasis on mindfulness based treatments.
         </p>
 
         <hr>
