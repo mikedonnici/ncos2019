@@ -51,16 +51,13 @@
             <div class="media-left">2:00 - 3:30</div>
             <div
               class="media-content"
-            >Session Three: Secondary faculty time, Primary meet in school groups, Simon leadership</div>
+            >Session Three: Primary session / secondary faculty / SLSO session</div>
           </article>
 
           <p>&nbsp;</p>
 
           <h5>Presentations spanning both Session One &amp; Session Two:</h5>
           <ul>
-            <li>
-              <a href="#dyslexia">Dyslexia</a>
-            </li>
             <li>
               <a href="#trauma">The Trauma Informed Classroom</a>
             </li>
@@ -211,66 +208,6 @@
             </div>
           </div>
         </div>
-
-        <hr>
-
-        <blockquote class="notification">
-          <h3 id="dyslexia">Dyslexia</h3>Presenter: Qualified ADA assessor
-          <br>Audience: all staff
-          <br>Session: Spanning Session One and Session Two
-        </blockquote>
-
-        <p>
-          This is an informative session relevant to every classroom in both secondary and
-          primary schools. Imagine the difference we could make to student results if we could
-          identify and assist our dyslexic students. Many of these students are ‘left behind’ because
-          of a lack of understanding and a lack of trained dyslexic teachers. This session is a start
-          to understanding the dyslexic students in your classroom – most of whom will not have been
-          formally assessed.
-        </p>
-
-        <p>
-          The Australian Dyslexia Association (ADA) states that dyslexia is estimated to affect
-          approximately 10% of the Australian population. However, they believe this may be a conservative
-          estimate as many individuals in Australia are left unidentified. In other English speaking
-          countries, the figures are an astounding 20% (UK. USA and Canada.)
-        </p>
-
-        <p>
-          This means one in five of our students could be affected by dyslexia. Dyslexia is the most
-          common cause of reading, writing and spelling difficulties. Unfortunately, many classroom teachers
-          are not aware of the signs that indicate dyslexia, where students can be assessed, specific
-          classroom strategies for these students, or the training teachers can undertake to teach dyslexic
-          students.
-        </p>
-
-        <p>Bomaderry High School has arranged for a qualified ADA assessor to present a two hour session on:</p>
-
-        <ul>
-          <li>What is dyslexia?</li>
-          <li>What are the indicators you may be teaching a dyslexic student?</li>
-          <li>Where can a student be assessed?</li>
-          <li>What classroom accommodations need to be made for dyslexic students to succeed?</li>
-          <li>What training is available from the ADA for teachers?</li>
-        </ul>
-
-        <p class="has-text-grey">
-          <i>
-            "Many students in schools go unidentified and unassisted, often it is
-            not until they are failing in literacy areas, that someone, wonders about dyslexia. It is never too late to get identified
-            and assisted
-          </i>"
-          <br>- ADA
-        </p>
-        <p class="has-text-grey">
-          <i>
-            "Science has moved forward at a rapid pace so that we now possess the data to reliably define
-            dyslexia … For the student, the knowledge that he is dyslexic is empowering … [It provides him]
-            with self-understanding and self-awareness of what he has and what he needs to do in order to
-            succeed."
-          </i>
-          <br>- Sally Shaywitz, M.D., co-director of Yale Center for Dyslexia and Creativity
-        </p>
 
         <hr>
 
@@ -731,6 +668,7 @@
 
         <blockquote class="notification">
           <h3 id="sport">Practical PDHPE and Sport Activities</h3>Jenni Raison, Head Teacher of Teaching and Learning Bomaderry High School
+          <br>Scott Sablowski, Head Teacher PDHPE (relieving) Bomaderry High School
           <br>Intended audience: all staff, K-12, anyone who delivers Sport or PDHPE
           <br>Session Two: 1:00 - 2:00
           <br>Requirements of attendees: Clothes to allow participation in physical activity.
