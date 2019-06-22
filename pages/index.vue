@@ -4,12 +4,21 @@
       <div class="content">
         <img src="/NCOS.png" alt="NCOS 2019" />
 
-        <a href="#top" class="button is-info top-btn">top</a>
+        <a href="#top" class="button is-info top-btn">
+          <span class="icon">
+            <i class="fas fa-arrow-up"></i>
+          </span>
+          <span>
+            top
+          </span>
+        </a>
 
         <h1 id="#top" class="title is-1">Northern Community of Schools</h1>
         <p class="subtitle is-4 has-text-grey">
           Session Information for SDD 22 July 2019
         </p>
+
+        <Map class="map-comp" />
 
         <h3>Program</h3>
 
@@ -1010,16 +1019,31 @@
 </template>
 
 <script>
+import Map from '~/components/Map'
+
 export default {
-  components: {}
+  components: {
+    Map
+  },
+  data() {
+    return {
+      mapActive: false
+    }
+  }
 }
 </script>
 
 <style>
 .top-btn {
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  bottom: 40px;
+  right: 40px;
+  z-index: 10000;
+}
+.map-comp {
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
   z-index: 10000;
 }
 .media-left {
