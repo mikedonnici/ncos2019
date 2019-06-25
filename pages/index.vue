@@ -114,12 +114,6 @@
                   <a href="#movie">Movie Making with Premiere Pro</a>
                 </li>
                 <li>
-                  <a href="#transition">Transition in the Middle Years</a>
-                </li>
-                <li>
-                  <a href="#evidence">Evidence Based Teacher Discussions</a>
-                </li>
-                <li>
                   <a href="#data">Data Analysis to Inform Practice</a>
                 </li>
                 <li>
@@ -130,9 +124,6 @@
                     >Simple, Successful Communication Strategies for Students
                     with Disabilities and/or Complex Behaviour</a
                   >
-                </li>
-                <li>
-                  <a href="#headspace">Headspace</a>
                 </li>
                 <li>
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
@@ -214,9 +205,6 @@
                 </li>
                 <li>
                   <a href="#sport">Practical PDHPE and Sport Activities</a>
-                </li>
-                <li>
-                  <a href="#headspace">Headspace</a>
                 </li>
                 <li>
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
@@ -428,78 +416,6 @@
         <p>
           Requirements for attendees: you may bring your own footage, otherwise
           stock footage will be provided.
-        </p>
-
-        <hr />
-
-        <blockquote class="notification">
-          <h3 id="transition" class="anchor">Transition in the Middle Years</h3>
-          Danielle Bobyk and Kristy Brown, Assistant Principals Bomaderry Public
-          School <br />Intended audience: Stage 3 teachers and supervisors and
-          High school transition coordinators, Year Advisors and Stage 4
-          teachers <br />Session One: 11:15 - 12:15
-        </blockquote>
-
-        <p>
-          Participants will be guided through a transition project developed by
-          Bomaderry Public School and Bomaderry High School. The aim of this
-          project is to engage in strong collaborations between parents,
-          students and staff. The desired outcome of this project is increased
-          educational aspiration and ensured continuity and ongoing improvement
-          of learning for all students. All students will be known, valued and
-          cared for.
-        </p>
-
-        <p>
-          Participants will be supported to begin unpacking the Middle Years
-          (5-9) Transition Matrix, created by NSW Department of Education 2012.
-          Participants will be able to self-assess their school’s current
-          position on the matrix in the areas of:
-        </p>
-
-        <ul>
-          <li>Parent/carer partnerships</li>
-          <li>Pedagogy</li>
-          <li>Curriculum</li>
-          <li>Wellbeing</li>
-          <li>Administration</li>
-        </ul>
-
-        <p>
-          Participants will learn about some practical strategies designed to
-          support successful transition so that students are able to seamlessly
-          shift from primary to secondary school and continue to connect,
-          succeed, thrive and learn.
-        </p>
-
-        <hr />
-
-        <blockquote class="notification">
-          <h3 id="evidence" class="anchor">
-            Evidence Based Teacher Discussions
-          </h3>
-          Jo De Fazio and Benji Young, Deputy Principal Bomaderry Public School
-          <br />Intended audience: K-6 / all teachers <br />Session One: 11:15 -
-          12:15 <br />Requirements: Syllabus, progressions and if possible,
-          class analysis sheet (printed off from PLAN2) and/or digital device
-          with connectivity
-        </blockquote>
-
-        <p>
-          Participants will be guided through evidence based teacher
-          discussions. This workshop will give an overview of a process which
-          demonstrates; How teachers are able to engage in professional
-          dialogue, collaboration and classroom observation to monitor, plan and
-          inform their teaching and meet the learning needs of their students.
-        </p>
-
-        <p>
-          Using the Syllabus and Learning Progressions, participants will see
-          how they can be responsive to meeting the needs of their students
-          through a process of analysis, goal setting, teaching and assessment.
-          Participants will have opportunities to see how quality, valid and
-          reliable data is collected through the teaching and learning cycle as
-          evidence for teacher discussions and further class intentions.
         </p>
 
         <hr />
@@ -828,30 +744,6 @@
           classes in both primary and High Schools. Participants will be given a
           handout at the end of this session with a range of activities
           included.
-        </p>
-
-        <hr />
-
-        <blockquote class="notification">
-          <h3 id="headspace" class="anchor">Headspace</h3>
-          Joel Lahene, Youth Care Coordinator <br />Ashlea Beaver, Psychologist
-          <br />Intended audience: all staff <br />Session One: 11:15 - 12:15
-          <br />Session Two: 1:00 - 2:00
-        </blockquote>
-
-        <p>What is headspace and what do we do?</p>
-
-        <p>
-          We will provide information about our services offered, including
-          mental health and other services that are not mental health specific
-          such as physical and sexual health, and vocational assistance. The
-          referral pathways and steps involved in a young person accessing
-          support from headspace will be explained. Discussion on the scope of
-          young people we would see, and when a referral to another service may
-          be more appropriate.This will be followed by a question and answer
-          type discussion for any further information or any particular concerns
-          attendees might have regarding how to support young people in
-          different situations.
         </p>
 
         <hr />
