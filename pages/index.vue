@@ -25,7 +25,7 @@
         <div class="notification">
           <article class="media">
             <div class="media-left">9:00 - 9:05</div>
-            <div class="media-content">Welcome to country</div>
+            <div class="media-content">Welcome to Country</div>
           </article>
 
           <article class="media">
