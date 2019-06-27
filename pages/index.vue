@@ -163,15 +163,6 @@
               <h5>Presentations Session Two (1:00 - 2:00):</h5>
               <ul>
                 <li>
-                  <a href="#seesaw">A Beginners Guide to Seesaw</a>
-                </li>
-                <li>
-                  <a href="#pave"
-                    >Parents and Volunteers in Education - How to PAVE the Road
-                    to Success!</a
-                  >
-                </li>
-                <li>
                   <a href="#number">Number Talks in the Classroom</a>
                 </li>
                 <li>
@@ -468,50 +459,6 @@
           visuals for supporting student's communication and introductory tips
           for using the iPad for communication. Participants will be provided
           with practical handouts and time for questions.
-        </p>
-
-        <hr />
-
-        <blockquote class="notification">
-          <h3 id="seesaw" class="anchor">A Beginners Guide to Seesaw</h3>
-          Belinda Walker, Assistant Principal Shoalhaven Heads Public School
-          <br />Tammy Burn, Classroom Teacher Shoalhaven Heads Public School
-          <br />Intended audience: all teachers <br />Session Two: 1:00 - 2:00
-          <br />Requirements: own device or laptop, iPad preferred or laptop
-          with touchscreen capabilities
-        </blockquote>
-
-        <p>
-          Explore Seesaw, the online learning journal from classroom teachers
-          that are currently using it successfully with their primary classes.
-        </p>
-
-        <p>
-          Seesaw is a platform for student engagement. Teachers can empower
-          students to create, reflect, share, and collaborate. Students “show
-          what they know” using photos, videos, drawings, text, PDFs, and links.
-          It’s simple to get student work in one place and share with families,
-          and nothing is shared without teacher approval.
-        </p>
-
-        <hr />
-
-        <blockquote class="notification">
-          <h3 id="pave" class="anchor">
-            Parents and Volunteers in Education - How to PAVE the Road to
-            Success!
-          </h3>
-          Jayne Emms, Deputy Principal, Instructional Leadership, Literacy and
-          Numeracy North Nowra Public School <br />Intended audience: K-6
-          teachers <br />Session Two: 1:00 - 2:00
-        </blockquote>
-
-        <p>
-          This session will include practical information and resources to
-          engage parent and community volunteers in the classroom setting.
-          Participants will be provided with professional learning resources and
-          examples of school support structures to upskill parents and
-          volunteers, helping to build effective learning partnerships.
         </p>
 
         <hr />
