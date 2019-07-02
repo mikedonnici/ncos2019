@@ -106,11 +106,6 @@
                   <a href="#journey">A Journey from Detention to Restoration</a>
                 </li>
                 <li>
-                  <a href="#abed"
-                    >Aboriginal Education - Personalised Learning Pathways</a
-                  >
-                </li>
-                <li>
                   <a href="#movie">Movie Making with Premiere Pro</a>
                 </li>
                 <li>
@@ -365,35 +360,6 @@
           stakeholders and the ways we have revised and adapted our process as
           we encountered each challenge.
         </p>
-
-        <hr />
-
-        <blockquote class="notification">
-          <h3 id="abed" class="anchor">
-            Aboriginal Education - Personalised Learning Pathways
-          </h3>
-          Lorrae King, Reading Support/ LST Teacher Bomaderry Public School
-          <br />Intended audience: K-12 all staff <br />Session One: 11:15 -
-          12:15
-        </blockquote>
-
-        <p>
-          Personalised Learning Pathways are an active process. They are
-          developed in a consultation process between the student,
-          parents/carers and teachers, to identify, organise and apply personal
-          approaches to learning and engagement. Personalised Learning Pathways
-          can have short term or long term goals.
-        </p>
-
-        <ul>
-          <li>How to incorporate PLP into schools</li>
-          <li>PLP document and checklist</li>
-          <li>
-            Goal setting and why it is important and why PLP's should be used as
-            a working document
-          </li>
-          <li>Sample PLP and checklist will be provided</li>
-        </ul>
 
         <hr />
 
