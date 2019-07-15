@@ -179,6 +179,9 @@
                   <a href="#sport">Practical PDHPE and Sport Activities</a>
                 </li>
                 <li>
+                  <a href="#headspace">Headspace</a>
+                </li>
+                <li>
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
                 </li>
                 <li>
@@ -717,6 +720,34 @@
           classes in both primary and High Schools. Participants will be given a
           handout at the end of this session with a range of activities
           included.
+        </p>
+
+        <hr />
+
+        <blockquote class="notification">
+          <h3 id="headspace" class="anchor">Headspace</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D14 - upstairs</span>
+          </p>Joel Lahene, Youth Care Coordinator
+          <br />Ashlea Beaver, Psychologist
+          <br />Intended audience: all staff
+          <br />Session Two: 1:00 - 2:00
+        </blockquote>
+
+        <p>What is headspace and what do we do?</p>
+
+        <p>
+          We will provide information about our services offered, including
+          mental health and other services that are not mental health specific
+          such as physical and sexual health, and vocational assistance. The
+          referral pathways and steps involved in a young person accessing
+          support from headspace will be explained. Discussion on the scope of
+          young people we would see, and when a referral to another service may
+          be more appropriate.This will be followed by a question and answer
+          type discussion for any further information or any particular concerns
+          attendees might have regarding how to support young people in
+          different situations.
         </p>
 
         <hr />
