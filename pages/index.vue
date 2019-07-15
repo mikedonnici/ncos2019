@@ -8,15 +8,11 @@
           <span class="icon">
             <i class="fas fa-arrow-up"></i>
           </span>
-          <span>
-            top
-          </span>
+          <span>top</span>
         </a>
 
         <h1 id="#top" class="title is-1">Northern Community of Schools</h1>
-        <p class="subtitle is-4 has-text-grey">
-          Session Information for SDD 22 July 2019
-        </p>
+        <p class="subtitle is-4 has-text-grey">Session Information for SDD 22 July 2019</p>
 
         <Map class="map-comp" />
 
@@ -60,21 +56,17 @@
 
           <article class="media">
             <div class="media-left">2:00 - 3:30</div>
-            <div class="media-content">
-              Session Three: Primary session / secondary faculty / SLSO session
-            </div>
+            <div
+              class="media-content"
+            >Session Three: Primary session / secondary faculty / SLSO session</div>
           </article>
 
           <p>&nbsp;</p>
 
-          <h5>
-            * Additional presentation by keynote speaker, Simon Breakspear
-          </h5>
+          <h5>* Additional presentation by keynote speaker, Simon Breakspear</h5>
           <ul>
             <li>
-              <a href="#keynote"
-                >Enhancing Adaptive Expertise through Learning Sprints</a
-              >
+              <a href="#keynote">Enhancing Adaptive Expertise through Learning Sprints</a>
             </li>
           </ul>
 
@@ -115,41 +107,37 @@
                   <a href="#application">The Golden Ticket!</a>
                 </li>
                 <li>
-                  <a href="#communication"
-                    >Simple, Successful Communication Strategies for Students
-                    with Disabilities and/or Complex Behaviour</a
-                  >
+                  <a href="#communication">
+                    Simple, Successful Communication Strategies for Students
+                    with Disabilities and/or Complex Behaviour
+                  </a>
                 </li>
                 <li>
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
                 </li>
                 <li>
-                  <a href="#keynote"
-                    >Enhancing Adaptive Expertise through Learning Sprints</a
-                  >
+                  <a href="#keynote">Enhancing Adaptive Expertise through Learning Sprints</a>
                 </li>
                 <li>
-                  <a href="#independent"
-                    >Developing Skills to Support Students with Independent
-                    Learning</a
-                  >
+                  <a href="#independent">
+                    Developing Skills to Support Students with Independent
+                    Learning
+                  </a>
                 </li>
                 <li>
                   <a href="#formative">Formative Assessment K-12</a>
                 </li>
                 <li>
-                  <a href="#accreditation"
-                    >Maintaining Accreditation Processes and Procedures</a
-                  >
+                  <a href="#accreditation">Maintaining Accreditation Processes and Procedures</a>
                 </li>
                 <li>
                   <a href="#mindful">Mindfulness in Education</a>
                 </li>
                 <li>
-                  <a href="#stress"
-                    >Stress Management for Staff - Navigating the Rocks for
-                    Shipwreck Preventers</a
-                  >
+                  <a href="#stress">
+                    Stress Management for Staff - Navigating the Rocks for
+                    Shipwreck Preventers
+                  </a>
                 </li>
               </ul>
             </div>
@@ -161,18 +149,16 @@
                   <a href="#number">Number Talks in the Classroom</a>
                 </li>
                 <li>
-                  <a href="#regulation"
-                    >Emotional Regulation and Visible Learning</a
-                  >
+                  <a href="#regulation">Emotional Regulation and Visible Learning</a>
                 </li>
                 <li>
                   <a href="#music">Music - Using the Orff Schulwerk Method</a>
                 </li>
                 <li>
-                  <a href="#deadly"
-                    >Incorporating 'Deadly' Technology into Teaching and
-                    Learning</a
-                  >
+                  <a href="#deadly">
+                    Incorporating 'Deadly' Technology into Teaching and
+                    Learning
+                  </a>
                 </li>
                 <li>
                   <a href="#wellbeing">Staff Wellbeing (Flourish)</a>
@@ -196,32 +182,28 @@
                   <a href="#stem">STEM for 10 - STEAMing Ahead!</a>
                 </li>
                 <li>
-                  <a href="#keynote"
-                    >Enhancing Adaptive Expertise through Learning Sprints</a
-                  >
+                  <a href="#keynote">Enhancing Adaptive Expertise through Learning Sprints</a>
                 </li>
                 <li>
-                  <a href="#independent"
-                    >Developing Skills to Support Students with Independent
-                    Learning</a
-                  >
+                  <a href="#independent">
+                    Developing Skills to Support Students with Independent
+                    Learning
+                  </a>
                 </li>
                 <li>
                   <a href="#formative">Formative Assessment K-12</a>
                 </li>
                 <li>
-                  <a href="#accreditation"
-                    >Maintaining Accreditation Processes and Procedures</a
-                  >
+                  <a href="#accreditation">Maintaining Accreditation Processes and Procedures</a>
                 </li>
                 <li>
                   <a href="#mindful">Mindfulness in Education</a>
                 </li>
                 <li>
-                  <a href="#stress"
-                    >Stress Management for Staff - Navigating the Rocks for
-                    Shipwreck Preventers</a
-                  >
+                  <a href="#stress">
+                    Stress Management for Staff - Navigating the Rocks for
+                    Shipwreck Preventers
+                  </a>
                 </li>
               </ul>
             </div>
@@ -231,11 +213,14 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="trauma" class="anchor">
-            The Trauma Informed Classroom
-          </h3>
-          Julie Mehic, Head Teacher Wellbeing <br />Kate Burrett, Head teacher
-          STC) Bomaderry High School <br />Intended audience: all staff
+          <h3 id="trauma" class="anchor">The Trauma Informed Classroom</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">Hall</span>
+          </p>Julie Mehic, Head Teacher Wellbeing
+          <br />Kate Burrett, Head teacher
+          STC) Bomaderry High School
+          <br />Intended audience: all staff
           <br />Session: Spanning Session One and Session Two
         </blockquote>
 
@@ -257,8 +242,12 @@
 
         <blockquote class="notification">
           <h3 id="saws" class="anchor">Speaking and Working Scientifically</h3>
-          Christine Gates, Head Teacher Science Bomaderry High School
-          <br />Intended audience: K-6 and 7-12 support <br />Session One: 11:15
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D1 - downstairs</span>
+          </p>Christine Gates, Head Teacher Science Bomaderry High School
+          <br />Intended audience: K-6 and 7-12 support
+          <br />Session One: 11:15
           - 12:15
         </blockquote>
 
@@ -278,12 +267,15 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="highqual" class="anchor">
-            High-Quality Learning Environments
-          </h3>
-          Anita Walsh EIU Preschool Teacher, Heidi Bridge DP Support, Kim Harley
-          ‘The Nest’ SACC Coordinator, Anne Maree Stewart SLSO <br />Intended
-          audience: K-12 <br />Session One: 11:15 - 12:15
+          <h3 id="highqual" class="anchor">High-Quality Learning Environments</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">E2 - downstairs</span>
+          </p>Anita Walsh EIU Preschool Teacher, Heidi Bridge DP Support, Kim Harley
+          ‘The Nest’ SACC Coordinator, Anne Maree Stewart SLSO
+          <br />Intended
+          audience: K-12
+          <br />Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -317,8 +309,12 @@
 
         <blockquote class="notification">
           <h3 id="numeracy" class="anchor">Engaging Students in Numeracy</h3>
-          Carly Dunstan, Classroom Teacher Illaroo Road Public School
-          <br />Intended audience: K-6 teachers <br />Session One: 11:15 - 12:15
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">A4 - downstairs</span>
+          </p>Carly Dunstan, Classroom Teacher Illaroo Road Public School
+          <br />Intended audience: K-6 teachers
+          <br />Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -336,12 +332,15 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="journey" class="anchor">
-            A Journey from Detention to Restoration
-          </h3>
-          Samantha Sheridan, Learning &amp; Support Teacher, Classroom Teacher
-          K/1S, Shoalhaven Heads Public School <br />Intended audience: K-6
-          teachers / SLSO <br />Session One: 11:15 - 12:15
+          <h3 id="journey" class="anchor">A Journey from Detention to Restoration</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">E5 - downstairs</span>
+          </p>Samantha Sheridan, Learning &amp; Support Teacher, Classroom Teacher
+          K/1S, Shoalhaven Heads Public School
+          <br />Intended audience: K-6
+          teachers / SLSO
+          <br />Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -356,8 +355,13 @@
 
         <blockquote class="notification">
           <h3 id="movie" class="anchor">Movie making with Premiere Pro</h3>
-          Harry Love, Classroom teacher Bomaderry High School <br />Intended
-          audience: all Staff <br />Session One: 11:15 - 12:15
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">A14 - upstairs</span>
+          </p>Harry Love, Classroom teacher Bomaderry High School
+          <br />Intended
+          audience: all Staff
+          <br />Session One: 11:15 - 12:15
           <br />Requirements: Please bring own headphones
         </blockquote>
 
@@ -379,8 +383,13 @@
 
         <blockquote class="notification">
           <h3 id="data" class="anchor">Data Analysis to Inform Practice</h3>
-          Cathy Russell, Deputy Principal Bomaderry High School <br />Intended
-          audience: 7-12 teachers <br />Session One: 11:15 - 12:15
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">A18 - upstairs</span>
+          </p>Cathy Russell, Deputy Principal Bomaderry High School
+          <br />Intended
+          audience: 7-12 teachers
+          <br />Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -393,9 +402,15 @@
 
         <blockquote class="notification">
           <h3 id="application" class="anchor">The Golden Ticket!</h3>
-          Ian Morris, Principal Bomaderry High School <br />Dionne Hanbidge,
-          Principal Bomaderry Public School <br />Intended audience: all
-          teaching staff <br />Session One: 11:15 - 12:15
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">Library</span>
+          </p>Ian Morris, Principal Bomaderry High School
+          <br />Dionne Hanbidge,
+          Principal Bomaderry Public School
+          <br />Intended audience: all
+          teaching staff
+          <br />Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -411,9 +426,15 @@
             Simple, Successful Communication Strategies for Students with
             Disabilities and/or Complex Behaviour
           </h3>
-          Katrina Eyland, Principal <br />Karen Wilson, Assistant Principal
-          <br />Patrick O'Keeffe, IT Coordinator <br />Intended audience: all
-          teachers and SLSOs <br />Session One: 11:15 - 12:15
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">A Block common room - upstairs</span>
+          </p>Katrina Eyland, Principal
+          <br />Karen Wilson, Assistant Principal
+          <br />Patrick O'Keeffe, IT Coordinator
+          <br />Intended audience: all
+          teachers and SLSOs
+          <br />Session One: 11:15 - 12:15
         </blockquote>
 
         <p>
@@ -431,9 +452,14 @@
 
         <blockquote class="notification">
           <h3 id="number" class="anchor">Number Talks in the Classroom</h3>
-          Rory Stevenson and Ben Green, Relieving K-2 Assistant Principal
-          Bomaderry Public School <br />Intended audience: K-6 teachers
-          <br />Session Two: 1:00 - 2:00 <br />Requirements: K-10 Mathematics
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D1 - downstairs</span>
+          </p>Rory Stevenson and Ben Green, Relieving K-2 Assistant Principal
+          Bomaderry Public School
+          <br />Intended audience: K-6 teachers
+          <br />Session Two: 1:00 - 2:00
+          <br />Requirements: K-10 Mathematics
           Syllabus and Numeracy Progressions
         </blockquote>
 
@@ -450,11 +476,13 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="regulation" class="anchor">
-            Emotional Regulation and Visible Learning
-          </h3>
-          Melissa Cairns, Classroom Teacher BD Bomaderry High School
-          <br />Intended audience: all staff <br />Session Two: 1:00 - 2:00
+          <h3 id="regulation" class="anchor">Emotional Regulation and Visible Learning</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D6 - downstairs</span>
+          </p>Melissa Cairns, Classroom Teacher BD Bomaderry High School
+          <br />Intended audience: all staff
+          <br />Session Two: 1:00 - 2:00
         </blockquote>
 
         <p>
@@ -472,11 +500,13 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="music" class="anchor">
-            Music - Using the Orff Schulwerk Method
-          </h3>
-          John Dunstan, Classroom Teacher Illaroo Road Public School
-          <br />Intended audience: K-12 teachers <br />Session Two: 1:00 - 2:00
+          <h3 id="music" class="anchor">Music - Using the Orff Schulwerk Method</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D14 - upstairs</span>
+          </p>John Dunstan, Classroom Teacher Illaroo Road Public School
+          <br />Intended audience: K-12 teachers
+          <br />Session Two: 1:00 - 2:00
         </blockquote>
 
         <p class="has-text-grey">
@@ -515,11 +545,16 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="deadly" class="anchor">
-            Incorporating 'Deadly' Technology into Teaching and Learning
-          </h3>
-          Gemma Tunks, Assistant Principal Bomaderry Public School
-          <br />Intended audience: K-12 all staff <br />Session Two: 1:00 - 2:00
+          <h3
+            id="deadly"
+            class="anchor"
+          >Incorporating 'Deadly' Technology into Teaching and Learning</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D13 - upstairs</span>
+          </p>Gemma Tunks, Assistant Principal Bomaderry Public School
+          <br />Intended audience: K-12 all staff
+          <br />Session Two: 1:00 - 2:00
         </blockquote>
 
         <p>
@@ -535,9 +570,15 @@
 
         <blockquote class="notification">
           <h3 id="wellbeing" class="anchor">Staff Wellbeing (Flourish)</h3>
-          Bob Willetts, Principal Berry Public School <br />John Bond, Principal
-          Cambewarra Public School <br />Ally Robinson, Assistant Principal
-          Cambewarra Public School <br />Intended audience: all staff
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">E18 - upstairs</span>
+          </p>Bob Willetts, Principal Berry Public School
+          <br />John Bond, Principal
+          Cambewarra Public School
+          <br />Ally Robinson, Assistant Principal
+          Cambewarra Public School
+          <br />Intended audience: all staff
           <br />Session Two: 1:00 - 2:00
         </blockquote>
 
@@ -562,8 +603,12 @@
 
         <blockquote class="notification">
           <h3 id="autism" class="anchor">Understanding the Basics of Autism</h3>
-          Natalie Kostiuk, Teacher, Autism 3-6 Illaroo Road Public School
-          <br />Intended audience: all staff <br />Session Two: 1:00 - 2:00
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D19 - upstairs</span>
+          </p>Natalie Kostiuk, Teacher, Autism 3-6 Illaroo Road Public School
+          <br />Intended audience: all staff
+          <br />Session Two: 1:00 - 2:00
         </blockquote>
 
         <ol>
@@ -575,9 +620,7 @@
             Teaching emotional regulation - the zones, useful resources for your
             classroom and different ways to use them.
           </li>
-          <li>
-            Using the Motivation Assessment Scale to guide your ABC analysis.
-          </li>
+          <li>Using the Motivation Assessment Scale to guide your ABC analysis.</li>
           <li>
             Completing RCB, IEP, Behaviour Plans etc straight into Sentral and
             other forms.
@@ -589,8 +632,12 @@
 
         <blockquote class="notification">
           <h3 id="literacy" class="anchor">Building Literacy from 7-12</h3>
-          Sarah Barrott, Head Teacher English Bomaderry High School
-          <br />Intended audience: 7-12 teachers <br />Session Two: 1:00 - 2:00
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">E4 - downstairs</span>
+          </p>Sarah Barrott, Head Teacher English Bomaderry High School
+          <br />Intended audience: 7-12 teachers
+          <br />Session Two: 1:00 - 2:00
           <br />Requirements: White board marker
         </blockquote>
 
@@ -609,8 +656,13 @@
 
         <blockquote class="notification">
           <h3 id="library" class="anchor">Teaching Library Skills</h3>
-          Matthew Devlin, Teacher Librarian Bomaderry High School <br />Intended
-          Audience: Teacher librarians and all staff K-12 <br />Session Two:
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">Library</span>
+          </p>Matthew Devlin, Teacher Librarian Bomaderry High School
+          <br />Intended
+          Audience: Teacher librarians and all staff K-12
+          <br />Session Two:
           1:00 - 2:00
         </blockquote>
 
@@ -626,9 +678,13 @@
 
         <blockquote class="notification">
           <h3 id="sentral" class="anchor">Sentral Markbook</h3>
-          Dewi Brewitt, Head Teacher Mathematics Bomaderry High School
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">A18 - upstairs</span>
+          </p>Dewi Brewitt, Head Teacher Mathematics Bomaderry High School
           <br />Intended audience: all staff who use Sentral, executive setting
-          up faculty or stage markbooks <br />Session Two: 1:00 - 2:00
+          up faculty or stage markbooks
+          <br />Session Two: 1:00 - 2:00
           <br />Requirements: Please bring own laptop
         </blockquote>
 
@@ -640,13 +696,17 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="sport" class="anchor">
-            Practical PDHPE and Sport Activities
-          </h3>
-          Jenni Raison, Head Teacher of Teaching and Learning Bomaderry High
-          School <br />Scott Sablowski, Head Teacher PDHPE (relieving) Bomaderry
-          High School <br />Intended audience: all staff, K-12, anyone who
-          delivers Sport or PDHPE <br />Session Two: 1:00 - 2:00
+          <h3 id="sport" class="anchor">Practical PDHPE and Sport Activities</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">Gym</span>
+          </p>Jenni Raison, Head Teacher of Teaching and Learning Bomaderry High
+          School
+          <br />Scott Sablowski, Head Teacher PDHPE (relieving) Bomaderry
+          High School
+          <br />Intended audience: all staff, K-12, anyone who
+          delivers Sport or PDHPE
+          <br />Session Two: 1:00 - 2:00
           <br />Requirements of attendees: Clothes to allow participation in
           physical activity.
         </blockquote>
@@ -663,8 +723,13 @@
 
         <blockquote class="notification">
           <h3 id="stem" class="anchor">STEM for 10 - STEAMing Ahead!</h3>
-          Benjamin Wells, Technology Education Australia <br />Intended
-          audience: all staff K-12 <br />Session One: 11:15 - 12:15
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D16 - upstairs</span>
+          </p>Benjamin Wells, Technology Education Australia
+          <br />Intended
+          audience: all staff K-12
+          <br />Session One: 11:15 - 12:15
           <br />Session Two: 1:00 - 2:00
           <br />
           <a href="http://www.ggvan.com.au" target="_blank">www.ggvan.com.au</a>
@@ -681,16 +746,16 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="keynote" class="anchor">
-            Enhancing Adaptive Expertise through Learning Sprints
-          </h3>
-          Simon Breakspear, Keynote Speaker
-          <br />Intended audience: all staff <br />Session One: 11:15 - 12:15
+          <h3 id="keynote" class="anchor">Enhancing Adaptive Expertise through Learning Sprints</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">A19 - upstairs</span>
+          </p>Simon Breakspear, Keynote Speaker
+          <br />Intended audience: all staff
+          <br />Session One: 11:15 - 12:15
           <br />Session Two: 1:00 - 2:00
           <br />
-          <a href="https://simonbreakspear.com/" target="_blank"
-            >https://simonbreakspear.com/</a
-          >
+          <a href="https://simonbreakspear.com/" target="_blank">https://simonbreakspear.com/</a>
         </blockquote>
 
         <p>
@@ -702,20 +767,26 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="independent" class="anchor">
-            Developing Skills to Support Students with Independent Learning
-          </h3>
-          Hannah Wiltshire, Curriculum Advisor DET Warilla Office <br />Intended
+          <h3
+            id="independent"
+            class="anchor"
+          >Developing Skills to Support Students with Independent Learning</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">A13 - upstairs</span>
+          </p>Hannah Wiltshire, Curriculum Advisor DET Warilla Office
+          <br />Intended
           audience: Stage 3 and 4 teachers in support of transition processes
-          <br />Session One: 11:15 - 12:15 <br />Session Two: 1:00 - 2:00
+          <br />Session One: 11:15 - 12:15
+          <br />Session Two: 1:00 - 2:00
         </blockquote>
 
         <p>
           In order to meet the aim,
-          <i
-            >"To create flexible learners to be prepared for 21st century
-            life"</i
-          >
+          <i>
+            "To create flexible learners to be prepared for 21st century
+            life"
+          </i>
           that is present in many school plans, teachers need their own tool kit
           to help students develop the skills to work independently and
           recognise the links between subjects. This workshop aims to identify
@@ -728,9 +799,15 @@
 
         <blockquote class="notification">
           <h3 id="formative" class="anchor">Formative Assessment K-12</h3>
-          Sue Tolhurst, Principal, School Leadership, Leadership and High
-          Performance <br />Intended audience: Teachers K-12 <br />Session One:
-          11:15 - 12:15 <br />Session Two: 1:00 - 2:00
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">A3 - downstairs</span>
+          </p>Sue Tolhurst, Principal, School Leadership, Leadership and High
+          Performance
+          <br />Intended audience: Teachers K-12
+          <br />Session One:
+          11:15 - 12:15
+          <br />Session Two: 1:00 - 2:00
         </blockquote>
 
         <p>
@@ -749,12 +826,16 @@
         <hr />
 
         <blockquote class="notification">
-          <h3 id="accreditation" class="anchor">
-            Maintaining Accreditation Processes and Procedures
-          </h3>
-          Renee Gilbert, Learning, Teaching and Leading Coordinator (Relieving)
-          DET Warilla Office <br />Intended audience: all teachers <br />Session
-          One: 11:15 - 12:15 <br />Session Two: 1:00 - 2:00
+          <h3 id="accreditation" class="anchor">Maintaining Accreditation Processes and Procedures</h3>
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">B11 - upstairs</span>
+          </p>Renee Gilbert, Learning, Teaching and Leading Coordinator (Relieving)
+          DET Warilla Office
+          <br />Intended audience: all teachers
+          <br />Session
+          One: 11:15 - 12:15
+          <br />Session Two: 1:00 - 2:00
         </blockquote>
 
         <p>
@@ -768,9 +849,15 @@
 
         <blockquote class="notification">
           <h3 id="mindful" class="anchor">Mindfulness in Education</h3>
-          Robyn Zelvis, School Counsellor Illawarra Sports High School,
-          Rel/Senior Psychologist Education Dapto High School <br />Intended
-          audience: all staff <br />Session One: 11:15 - 12:15 <br />Session
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D2 - downstairs</span>
+          </p>Robyn Zelvis, School Counsellor Illawarra Sports High School,
+          Rel/Senior Psychologist Education Dapto High School
+          <br />Intended
+          audience: all staff
+          <br />Session One: 11:15 - 12:15
+          <br />Session
           Two: 1:00 - 2:00
         </blockquote>
 
@@ -807,8 +894,13 @@
             Stress Management for Staff - Navigating the Rocks for Shipwreck
             Preventers
           </h3>
-          Rowland Hay, SP,E Oak Flats <br />Intended audience: all staff
-          <br />Session One: 11:15 - 12:15 <br />Session Two: 1:00 - 2:00
+          <p class="is-size-4">
+            <span class="has-text-grey">Location:</span>
+            <span class="has-text-info has-text-weight-bold">D12 - upstairs</span>
+          </p>Rowland Hay, SP,E Oak Flats
+          <br />Intended audience: all staff
+          <br />Session One: 11:15 - 12:15
+          <br />Session Two: 1:00 - 2:00
         </blockquote>
 
         <p>
