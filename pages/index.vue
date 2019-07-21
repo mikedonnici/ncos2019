@@ -20,45 +20,53 @@
 
         <div class="notification">
           <article class="media">
+            <div class="media-left">8:00 - 9:00</div>
+            <div class="media-content">Registration - Hall</div>
+          </article>
+
+          <article class="media">
             <div class="media-left">9:00 - 9:05</div>
-            <div class="media-content">Welcome to Country</div>
+            <div class="media-content">Welcome to Country - Hall</div>
           </article>
 
           <article class="media">
             <div class="media-left">9:05 - 9:15</div>
-            <div class="media-content">Introduction</div>
+            <div class="media-content">Introduction - Hall</div>
           </article>
 
           <article class="media">
             <div class="media-left">9:15 - 10:45</div>
-            <div class="media-content">Keynote - Simon Breakspear*</div>
+            <div class="media-content">Keynote - Simon Breakspear* - Hall</div>
           </article>
 
           <article class="media">
             <div class="media-left">10:45 - 11:15</div>
-            <div class="media-content">Morning Tea</div>
+            <div class="media-content">Morning Tea - Hall</div>
           </article>
 
           <article class="media">
             <div class="media-left">11:15 - 12:15</div>
-            <div class="media-content">Session One</div>
+            <div class="media-content">Session One - see below for locations</div>
           </article>
 
           <article class="media">
             <div class="media-left">12:15 - 1:00</div>
-            <div class="media-content">Lunch</div>
+            <div class="media-content">Lunch - Hall</div>
           </article>
 
           <article class="media">
             <div class="media-left">1:00 - 2:00</div>
-            <div class="media-content">Session Two</div>
+            <div class="media-content">Session Two - see below for locations</div>
           </article>
 
           <article class="media">
             <div class="media-left">2:00 - 3:30</div>
-            <div
-              class="media-content"
-            >Session Three: Primary session / secondary faculty / SLSO session</div>
+            <div class="media-content">
+              Session Three:
+              <br />Primary session - Hall
+              <br />Secondary faculty - Staff rooms
+              <br />SLSO session - Common room, A Block
+            </div>
           </article>
 
           <p>&nbsp;</p>
@@ -211,6 +219,28 @@
               </ul>
             </div>
           </div>
+        </div>
+
+        <hr />
+
+        <div class="notification is-success">
+          <h3 class="title is-4 has-text-white">
+            <i class="fa fa-coffee"></i>
+            Don't forget to bring your keep cups!
+          </h3>
+          <p
+            class="subtitle is-5 has-text-white"
+          >JavaLife coffee van offering 50 cent discount if you have a keep cup.</p>
+        </div>
+
+        <div class="notification is-info">
+          <h3 class="title is-4 has-text-white">
+            <i class="fa fa-water"></i>
+            Don't forget to bring your reusable bottles!
+          </h3>
+          <p
+            class="subtitle is-5 has-text-white"
+          >Shoalhaven water is providing a portable water filling station, located near the Hall.</p>
         </div>
 
         <hr />
